@@ -20,7 +20,7 @@ This is the power source for the AI Strategy Suite. It handle dynamic dataset ge
    ```bash
    python app.py
    ```
-   The API will start on `http://localhost:5000`.
+   The API is live at `https://logistic-regression-backend.onrender.com`.
 
 ## 🧪 Tech Stack
 
